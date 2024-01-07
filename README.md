@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]
 <h1 align="center">Hi 👋, I'm Moussaif Saad</h1>
 <h3 align="center">A Student softwar Engineer from Morroco</h3>
 

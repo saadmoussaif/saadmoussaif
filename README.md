@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Moussaif Saad</h1>
-<h3 align="center">A Student softwar Engineer from Morroco</h3>
+<h3 align="center">A softwar Engineer from Morroco</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/saadmoussaif/saadmoussaif/assets/134594163/70079430-d8e0-4814-b556-67134a804ea1">
 

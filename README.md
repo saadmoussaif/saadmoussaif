@@ -1,3 +1,56 @@
+<h1 align="center">👋 Moussaif Saad — Ingénieur Full Stack</h1>
+
+<p align="center">
+  <a href="https://saadmoussaif.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-saadmoussaif.vercel.app-orange?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/saad-moussaif-369182226/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Moussaif-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=saadmoussaif&style=for-the-badge&color=orange" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **State Engineer** diplômé de l'**EMSI Casablanca** — Informatique & Réseaux
+- 💻 Full Stack Developer spécialisé **Java Spring Boot · Angular · Vue.js · React**
+- 🤖 Passionné par l'**Intelligence Artificielle** — LLM, MCP Protocol, RAG, Fine-tuning
+- 📱 Développement mobile avec **Flutter & Dart**
+- ⚙️ **DevOps** — Docker, Kubernetes, CI/CD
+- 📍 Basé à **Casablanca, Maroc**
+- 📧 moussaifsaad4@gmail.com
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,react,ts,js,python,flutter,html,css,tailwind,mysql,postgres,oracle,docker,kubernetes,git,github,linux" />
+</p>
+
+---
+
+### 📂 Projets récents
+
+| Projet | Stack | Année |
+|--------|-------|-------|
+| 🏥 Système IA Cabinet Médical | Spring Boot · Angular · Python · LLM · MCP | 2026 |
+| 🛍️ SaadTechStore E-Commerce | Angular · Spring Boot · Keycloak · MySQL | 2026 |
+| 📱 App Mobile Gestion Bureaux | Flutter · Dart · QR Code | 2025 |
+| 🏦 Conventions Wafa Immobilier | Spring Boot · Angular · Oracle · Scrum | 2024 |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadmoussaif&show_icons=true&theme=dark&hide_border=true&title_color=f97316&icon_color=f97316" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmoussaif&layout=compact&theme=dark&hide_border=true&title_color=f97316" width="48%" />
+</p>
+
+---
 
 ### 🌐 Connect with me
 
@@ -8,34 +61,7 @@
   <a href="https://saadmoussaif.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-SAADMOUSSAIF.DEV-orange?style=for-the-badge&logo=vercel" />
   </a>
+  <a href="mailto:moussaifsaad4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-moussaifsaad4@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
-
-<h1 align="center"> I'm Moussaif Saad</h1>
-<h3 align="center">A softwar Engineer from Morroco</h3>
-
-<h3 align="center">Full Stack Developer | Java Spring Boot | Angular | React </h3>
-
-
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 Software Engineering  from Morocco  
-- 💻 I build modern web and mobile applications  
-- 🚀 Currently working with **Spring Boot, Angular, Vuejs,Reactjs and AI**
-- 📍 Based in  Morocco  
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,tailwind,mysql,postgres,git,github,docker" />
-</p>
-
----
-
-
-
-

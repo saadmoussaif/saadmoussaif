@@ -6,9 +6,6 @@
   </a>
   <a href="https://www.linkedin.com/in/saad-moussaif-369182226/">
     <img src="https://img.shields.io/badge/LinkedIn-Saad%20Moussaif-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=saadmoussaif&style=for-the-badge&color=orange" />
-</p>
 
 ---
 
@@ -42,13 +39,6 @@
 | 🏦 Conventions Wafa Immobilier | Spring Boot · Angular · Oracle · Scrum | 2024 |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadmoussaif&show_icons=true&theme=dark&hide_border=true&title_color=f97316&icon_color=f97316" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmoussaif&layout=compact&theme=dark&hide_border=true&title_color=f97316" width="48%" />
-</p>
 
 ---
 

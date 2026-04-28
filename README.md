@@ -17,7 +17,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,react,ts,js,python,tailwind,mysql,postgres,oracle,docker,kubernetes,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,react,ts,js,python,tailwind,mysql,postgres,docker,kubernetes,git,github,linux" />
 </p>
 
 

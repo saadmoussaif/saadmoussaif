@@ -1,4 +1,4 @@
-<h1 align="center">👋 Moussaif Saad — Ingénieur Full Stack</h1>
+<h1 align="center"> Moussaif Saad — Ingénieur Full Stack</h1>
 
 
 <p align="left">
@@ -13,13 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://saadmoussaif.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-saadmoussaif.vercel.app-orange?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/saad-moussaif-369182226/">
-    <img src="https://img.shields.io/badge/LinkedIn-Saad%20Moussaif-blue?style=for-the-badge&logo=linkedin" />
-
 
 ### 🛠️ Languages and Tools
 
@@ -28,7 +21,5 @@
 </p>
 
 
----
 
-### 🌐 Connect with me
 
